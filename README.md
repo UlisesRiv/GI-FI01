@@ -1,2 +1,3 @@
 # GI-FI01
- Bot config
+
+Esta carpeta contiene la configuración del ***chatbot*** en el archivo **GIFI01**
