@@ -21,3 +21,6 @@ Con GI-FI puedes estar seguro. Las interacciones con nuestro Bot asistente son c
 GI-FI está disponible para Facebook. Proximamente contará con mas integraciones en los diferentes servicios Meta
 
 Espere más utilidades y funciones próximamente
+
+De momento nuestro servio en la plataforma de Facebook esta siendo verificada, pero puede probar su funcionamiento en :
+https://botgifi.azurewebsites.net/2021/12/19/hola-mundo/
