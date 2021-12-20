@@ -6,8 +6,6 @@ GI-FI es un asistente virtual que te recomienda las mejores ofertas de tus gadge
 
 ## Link al Tiktok
 
-
-
 ## Diagrama de Azure
 
 En los siguientes esquemas podemos visualizar los recursos ocupados en Azure y su relación con el funcionamiento dentro del planteamiento de la solución, así como su integración en una proxima actualización
@@ -15,8 +13,6 @@ En los siguientes esquemas podemos visualizar los recursos ocupados en Azure y s
 GI-FI v0.2
 
 ![](C:\Users\zhior\AppData\Roaming\marktext\images\2021-12-19-18-35-09-image.png)
-
-
 
 GI-FI v0.3 (proxima actualización)
 
