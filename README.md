@@ -14,17 +14,17 @@ En los siguientes esquemas podemos visualizar los recursos ocupados en Azure y s
 
 GI-FI v0.2
 
-![](C:\Users\zhior\AppData\Roaming\marktext\images\2021-12-19-18-35-09-image.png)
+![image](https://user-images.githubusercontent.com/94363566/146697640-fea94ce3-91f6-4a00-bb74-49e12f3bbe60.png)
 
 
 
 GI-FI v0.3 (proxima actualización)
 
-![](C:\Users\zhior\AppData\Roaming\marktext\images\2021-12-19-18-37-19-image.png) 
+![image](https://user-images.githubusercontent.com/94363566/146697661-470fa06c-c8d6-44c5-b3f9-5c0c5db9d153.png)
 
 ## SLA Compuesto y Tiempo sin disponibilidad a un año
 
-![](C:\Users\zhior\AppData\Roaming\marktext\images\2021-12-19-18-38-29-image.png)
+![image](https://user-images.githubusercontent.com/94363566/146697687-3143ea4d-bd55-49d2-bae1-df41a7addbc5.png)
 
 ## TCO 3 años y Precio Total por mes
 
